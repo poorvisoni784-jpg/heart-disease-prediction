@@ -15,9 +15,6 @@ heart-disease-detection/
 ├── notebook/
 │ └── heart_disease_detection.ipynb # Main analysis & ML notebook
 │
-├── src/
-│ └── model.py  # Scripts for model training/inference
-│
 ├── requirements.txt # Python dependencies
 └── README.md
 
@@ -60,7 +57,7 @@ heart-disease-detection/
 1. Clone the repository:
    git clone https://github.com/your-username/heart-disease-detection.git
 
-2. Install dependencies::
+2. Install dependencies:
   pip install -r requirements.txt
 
 3. Open the notebook:
@@ -68,8 +65,6 @@ heart-disease-detection/
    
 ---
 
-## 📌 8️⃣ Conclusion
-```markdown
 ## 📌 Conclusion
 This project demonstrates how machine learning can be applied for early detection of heart disease, potentially assisting healthcare professionals.
 
